@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="api_value_base_url">http://events2app.apping.it/api/v2/digital-channel-forum-vision-2020/</string>
+    <!-- <string name="api_value_google_maps_api_key">AIzaSyBssk81wlfgQCQ-QE12wKtDQtiPlV-nwZI</string> -->
+    <string name="api_value_google_maps_api_key">AIzaSyBDWk0F20MpjsShYFiWAvVCaxIk2f6nE3c</string>
+
+    <string name="api_value_twitter_api_key">Mxl1GoGSM98T3jTIWdlUuqXmh</string>
+    <string name="api_value_twitter_secret">UM74rykaGhxPhhKED2KxJrd6zGBLNWgVsGdlzjdSwSNqLTiyqY</string>
+
+</resources>
